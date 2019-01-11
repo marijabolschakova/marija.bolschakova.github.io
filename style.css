@@ -46,7 +46,7 @@ a{
 /* ..................HEADER..........................*/
 .HEADER {
 	background: #343c4e;
-	background-image: url("Desktop - HTML -assets/bg-header.jpg");
+	background-image: url(bg-header.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
